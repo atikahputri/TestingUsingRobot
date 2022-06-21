@@ -9,48 +9,48 @@ Cara menjalankan automation test
 Hasil pengujian
 ---------------
 
-Test terdiri dari 5 test case, diantaranya adalah
-Test Case [1] I'm login with valid email and valid password [PASSED]
-1. open browser dan url
-2. fullscreen valid window
-3. input email
-4. input valid password
-5. Klik login
-6. Validasi halaman dashboard
-7. close browser
+Test terdiri dari 5 test case, diantaranya adalah <br> <br>
+Test Case [1] I'm login with valid email and valid password [PASSED] <br>
+step 1. open browser dan url <br>
+step 2. fullscreen valid window <br>
+step 3. input email <br>
+step 4. input valid password <br>
+step 5. Klik login <br>
+step 6. Validasi halaman dashboard <br>
+step 7. close browser <br>
 
-Test Case [2] I'm login with valid email and invalid password [PASSED]
-step 1. open browser dan url
-step 2. fullscreen valid window
-step 3. input email
-step 4. input invalid password
-step 5. Klik login
-step 6. Validasi pesan error
-step 7. close browser
+Test Case [2] I'm login with valid email and invalid password [PASSED] <br>
+step 1. open browser dan url <br>
+step 2. fullscreen valid window <br>
+step 3. input email <br>
+step 4. input invalid password <br>
+step 5. Klik login <br>
+step 6. Validasi pesan error <br>
+step 7. close browser <br>
 
-Test Case [3] I'm login with email not registered and valid password [PASSED]
-step 1. open browser dan url
-step 2. fullscreen valid window
-step 3. input not registered email
-step 4. input valid password
-step 5. Klik login
-step 6. Validasi red box
-step 7. close browser
+Test Case [3] I'm login with email not registered and valid password [PASSED] <br>
+step 1. open browser dan url <br>
+step 2. fullscreen valid window <br>
+step 3. input not registered email <br>
+step 4. input valid password <br>
+step 5. Klik login <br>
+step 6. Validasi red box <br>
+step 7. close browser <br>
 
-Test Case [3] I'm forget password with invalid email [PASSED]
-step 1. open browser dan url
-step 2. fullscreen valid window
-step 3. Klik "Lupa kata sandi?"
-step 4. Input invalid email
-step 5. Klik submit
-step 6. Validasi error
-step 7. close browser
+Test Case [3] I'm forget password with invalid email [PASSED] <br>
+step 1. open browser dan url <br>
+step 2. fullscreen valid window <br>
+step 3. Klik "Lupa kata sandi?" <br>
+step 4. Input invalid email <br>
+step 5. Klik submit <br>
+step 6. Validasi error <br>
+step 7. close browser <br>
 
-Test Case [4] I'm forget password with not registered email [PASSED]  
-step 1. open browser dan url 
-step 2. fullscreen valid window
-step 3. Klik "Lupa kata sandi?"
-step 4. Input not registered email
-step 5. Klik submit
-step 6. Validasi error
-step 7. close browser
+Test Case [4] I'm forget password with not registered email [PASSED] <br>
+step 1. open browser dan url <br> 
+step 2. fullscreen valid window <br>
+step 3. Klik "Lupa kata sandi?" <br>
+step 4. Input not registered email <br>
+step 5. Klik submit <br>
+step 6. Validasi error <br>
+step 7. close browser <br>
