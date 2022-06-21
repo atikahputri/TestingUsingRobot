@@ -11,13 +11,13 @@ Hasil pengujian
 
 Test terdiri dari 5 test case, diantaranya adalah
 Test Case [1] I'm login with valid email and valid password [PASSED]
-step 1. open browser dan url
-step 2. fullscreen valid window
-step 3. input email
-step 4. input valid password
-step 5. Klik login
-step 6. Validasi halaman dashboard
-step 7. close browser
+1. open browser dan url
+2. fullscreen valid window
+3. input email
+4. input valid password
+5. Klik login
+6. Validasi halaman dashboard
+7. close browser
 
 Test Case [2] I'm login with valid email and invalid password [PASSED] 
 step 1. open browser dan url
