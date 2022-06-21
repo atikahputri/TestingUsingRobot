@@ -19,8 +19,8 @@ Test Case [1] I'm login with valid email and valid password [PASSED]
 6. Validasi halaman dashboard
 7. close browser
 
-Test Case [2] I'm login with valid email and invalid password [PASSED] \n
-step 1. open browser dan url \n
+Test Case [2] I'm login with valid email and invalid password [PASSED]
+step 1. open browser dan url
 step 2. fullscreen valid window
 step 3. input email
 step 4. input invalid password
