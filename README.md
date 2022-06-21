@@ -6,7 +6,6 @@ Cara menjalankan automation test
 3. Jalankan proses testing dengan command "robot logiin.robot"
 4. Test akan berjalan sesuai urutan test casenya
 
-####################################################################
 Hasil pengujian
 ---------------
 
